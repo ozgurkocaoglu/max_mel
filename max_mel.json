@@ -1,0 +1,22 @@
+{
+"Rev.05-01 | 04.04.2024": [
+    { "Item": "0.5 & 1.2",	"Remark": "Added New A/Cs (TC-SMP)"}
+	],
+"Rev.06 | 18.04.2024": [
+    { "Item": "SHGM",	"Remark": "737-8 EASA MMEL Rev.05, 19.01.2024 | 737-8 EASA DDG Rev.5, 02.02.2024"},
+ 	{ "Item": "0.5 & 1.2",	"Remark": "Added New A/Cs (TC-SMP)"},
+	{ "Item": "MEL 00-02-00",	"Remark": ""},
+	{ "Item": "MEL 25-63-02",	"Remark": ""},
+	{ "Item": "MEL 30-41-01-02",	"Remark": ""},
+	{ "Item": "MEL 34-57-01",	"Remark": ""},
+	{ "Item": "MEL 38-30-01B",	"Remark": ""},
+	{ "Item": "MEL 49-11.01",	"Remark": ""},
+	{ "Item": "Appendix 5",	"Remark": ""}
+	],
+"Rev.05-02 | XX.XX.2024": [
+   	{ "Item": "MEL 23-71-01-02",	"Remark": "TC-SMP,SMR,SMS,SMT will be added to effectivity"},
+	{ "Item": "MEL 23-71-01-02-01",	"Remark": "TC-SMP,SMR,SMS,SMT will be added to effectivity"},
+	{ "Item": "MEL 35-11-02-01",	"Remark": "TC-SMP,SMR,SMS,SMT will be added to effectivity"},
+	{ "Item": "Section 1",	"Remark": "Hyperlinks for some items at Section 1-Cross Check List will be updated"}
+	]
+}

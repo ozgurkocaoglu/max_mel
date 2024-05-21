@@ -14,6 +14,7 @@
 	{ "Item": "Appendix 5",	"Remark": ""}
 	],
 "Rev_05_02": [
+	{ "Item": "0.5 & 1.2",	"Remark": "New A/Cs TC-SMR,SMS,SMT will be added"},
    	{ "Item": "MEL 23-71-01-02",	"Remark": "TC-SMP,SMR,SMS,SMT will be added to effectivity"},
 	{ "Item": "MEL 23-71-01-02-01",	"Remark": "TC-SMP,SMR,SMS,SMT will be added to effectivity"},
 	{ "Item": "MEL 35-11-02-01",	"Remark": "TC-SMP,SMR,SMS,SMT will be added to effectivity"},

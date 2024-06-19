@@ -1,10 +1,10 @@
 {
 "Rev_05_01": [
-    { "Item": "0.5 & 1.2",	"Remark": "Added New A/Cs (TC-SMP | 61339)"}
+    { "Item": "0.5 & 1.2",	"Remark": "Added new A/Cs (TC-SMP | 61339)"}
 	],
 "Rev_06": [
     { "Item": "SHGM",	"Remark": "737-8 EASA MMEL Rev.05, 19.01.2024 | 737-8 EASA DDG Rev.5, 02.02.2024"},
- 	{ "Item": "0.5 & 1.2",	"Remark": "Added New A/Cs (TC-SMP | 61339)"},
+ 	{ "Item": "0.5 & 1.2",	"Remark": "Added new A/Cs (TC-SMP | 61339)"},
 	{ "Item": "Preamble 1.5",	"Remark": "Maintenance Action 'Flight crew may also change the light bulbs of Annunciator Lights in the cockpit. Maintenance procedure that requires specialized knowledge, skill or use of tools or test equipment, removal/installation of any component or lamp, opening/closing access panel or repair will be accomplished by maintenance personnel.'………… The green expression has been added."},
 	{ "Item": "MEL 00-02-00",	"Remark": "'Cross Reference List' has been added."},
 	{ "Item": "MEL 25-63-02",	"Remark": "Boeing SR [SNS-SNS-24-0324-01C] regarding the ELT Requirements has been opened.(Required: Changed from 0 to 1. Interval D has been deleted. Standardized with 737NG.)"},

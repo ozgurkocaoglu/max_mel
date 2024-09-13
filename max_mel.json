@@ -20,6 +20,7 @@
    	{ "Item": "MEL 23-71-01-02",	"Remark": "TC-SMP, SMR, SMS, SMT will be added to effectivity"},
 	{ "Item": "MEL 23-71-01-02-01",	"Remark": "TC-SMP, SMR, SMS, SMT will be added to effectivity"},
 	{ "Item": "MEL 35-11-02-01",	"Remark": "TC-SMP, SMR, SMS, SMT will be added to effectivity"},
-	{ "Item": "Section 1",	"Remark": "Hyperlinks for some items at Section 1-Cross Check List will be updated"}
+	{ "Item": "Section 1",	"Remark": "Hyperlinks for some items at Section 1-Cross Check List will be updated"},
+	{ "Item": "XXX & YYY",	"Remark": "New A/Cs will be checked"}
 	]
 }

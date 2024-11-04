@@ -1,10 +1,10 @@
 {
 "Rev_05_01": [
-    { "Item": "0.5 & 1.2",	"Remark": "Added new A/Cs (TC-SMP | 61339)"}
+    { "Item": "0.5 Model ID & MEL 1.1 Intro",	"Remark": "Added new A/Cs (TC-SMP | 61339)"}
 	],
 "Rev_06": [
     { "Item": "SHGM",	"Remark": "737-8 EASA MMEL Rev.05, 19.01.2024 | 737-8 EASA DDG Rev.5, 02.02.2024"},
- 	{ "Item": "0.5 & 1.2",	"Remark": "Added new A/Cs (TC-SMP | 61339)"},
+ 	{ "Item": "0.5 Model ID & MEL 1.1 Intro",	"Remark": "Added new A/Cs (TC-SMP | 61339)"},
 	{ "Item": "Preamble 1.5",	"Remark": "Maintenance Action 'Flight crew may also change the light bulbs of Annunciator Lights in the cockpit. Maintenance procedure that requires specialized knowledge, skill or use of tools or test equipment, removal/installation of any component or lamp, opening/closing access panel or repair will be accomplished by maintenance personnel.'…………expression has been added."},
 	{ "Item": "MEL 00-02-00",	"Remark": "'Cross Reference List' has been added."},
 	{ "Item": "MEL 25-63-02",	"Remark": "Boeing SR [SNS-SNS-24-0324-01C] regarding the ELT Requirements has been opened.(Required: Changed from 0 to 1. Interval D has been deleted. Standardized with 737NG.)"},
@@ -15,12 +15,22 @@
 	{ "Item": "Appendix 3.3",	"Remark": "Low Visibility Approaches | NOTE has been deleted below table (Feedback from TM)"},
 	{ "Item": "Appendix 5",	"Remark": "'APX.5' has been divided into the sub-items as APX 5.1, 5.2,……,5.10."}
 	],
-"Rev_05_02": [
-	{ "Item": "0.5 & 1.2",	"Remark": "New A/Cs (TC-SMR, SMS, SMT) will be added"},
-   	{ "Item": "MEL 23-71-01-02",	"Remark": "TC-SMP, SMR, SMS, SMT will be added to effectivity"},
-	{ "Item": "MEL 23-71-01-02-01",	"Remark": "TC-SMP, SMR, SMS, SMT will be added to effectivity"},
-	{ "Item": "MEL 35-11-02-01",	"Remark": "TC-SMP, SMR, SMS, SMT will be added to effectivity"},
-	{ "Item": "Section 1",	"Remark": "Hyperlinks for some items at Section 1-Cross Check List will be updated"},
-	{ "Item": "XXX & YYY",	"Remark": "New A/Cs will be checked"}
+"Rev_06_01": [
+	{ "Item": "0.5 Model ID & MEL 1.1 Intro",	"Remark": "Added new A/Cs (TC-SMU | 61806)"},
+   	{ "Item": "MEL 21-73-01",	"Remark": "TC-SMU has been added to effectivity"},
+	{ "Item": "MEL 23-11-01A",	"Remark": "TC-SMU has been added to effectivity"},
+	{ "Item": "MEL 23-12-01-01B",	"Remark": "Currently effective for ALL, but N/A for TC-SMU."},
+	{ "Item": "MEL 23-28-01",	"Remark": "New item will be added for TC-SMU effectiveness only."},
+	{ "Item": "MEL 23-28-01B",	"Remark": "New item will be added for TC-SMU effectiveness only."},
+	{ "Item": "MEL 23-28-01-01",	"Remark": "New item will be added for TC-SMU effectiveness only."},
+	{ "Item": "MEL 23-28-01-01B",	"Remark": "New item will be added for TC-SMU effectiveness only."},
+	{ "Item": "MEL 23-51-04-03A",	"Remark": "New item will be added for TC-SMU effectiveness only."},
+        { "Item": "23-71-01-02",	"Remark": "TC-SMU has been added to effectivity"},
+	{ "Item": "23-71-01-02-01",	"Remark": "TC-SMU has been added to effectivity"},
+        { "Item": "MEL 26-14-01-02B",	"Remark": "Item has been deleted for all 737-8"},
+	{ "Item": "MEL 26-18-01A",	"Remark": "Item has been deleted for all 737-8"},
+	{ "Item": "27-08-01",	"Remark": "Currently effective for TC-SMI & TC-SMF, but N/A for TC-SMU."},
+	{ "Item": "MEL 28-25-01",	"Remark": "New item will be added for TC-SMU effectiveness only."},
+	{ "Item": "MEL 34-57-01",	"Remark": "Currently effective for ALL, but N/A for TC-SMU. (P.S.: It will be changed back to 'ALL' in the next revision after the relevant modification is implemented on TC-SMU.)"}
 	]
 }

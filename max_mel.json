@@ -32,5 +32,9 @@
 	{ "Item": "27-08-01",	"Remark": "Currently effective for TC-SMI & TC-SMF, but N/A for TC-SMU."},
 	{ "Item": "MEL 28-25-01",	"Remark": "New item will be added for TC-SMU effectiveness only."},
 	{ "Item": "MEL 34-57-01",	"Remark": "Currently effective for ALL, but N/A for TC-SMU. (P.S.: It will be changed back to 'ALL' in the next revision after the relevant modification is implemented on TC-SMU.)"}
+	],
+"Rev_06_02": [
+	{ "Item": "MEL 25-25-01-01",	"Remark": "Required:'-' has been revised as '2'. Standardized with 737NG."},
+	{ "Item": "MEL 34-57-01",	"Remark": "TC-SMU has been added to effectivity after the ADF installation modification is implemented."}
 	]
 }

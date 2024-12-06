@@ -35,7 +35,7 @@
 	],
 "Rev_06_02": [
 { "Item": "MEL 25-20-01",
-"Remark": " ‘Placards that were installed on tray table or backrest areas should be transferred to seat back assy. after removal of tray table or backrest fairing.’  Operational Note will be added under the header."},
+"Remark": " ‘Placards that were installed on tray table or backrest areas should be transferred to seat back assy. after removal of tray table or backrest fairing.’  Operational Note will be added."},
  
 { "Item": "MEL 25-25-01-01",
 "Remark": "Required: '-' will be revised as '2'.  Standardized with the same item(25-03-01) in the 737NG MEL. "},
@@ -44,6 +44,6 @@
 "Remark": "TC-SMU will be added to first group of effectivity list after the ADF installation modification is implemented."},
  
 { "Item": "MEL 78-31-01",
-"Remark": "‘ During the pre-flight exterior inspection, check that 4 thrust reverser deactivation pins (usually red in color) are visible on the engine with the deactivated thrust reverser.’  Operational Note will be added under the header."}
+"Remark": "‘ During the pre-flight exterior inspection, check that 4 thrust reverser deactivation pins (usually red in color) are visible on the engine with the deactivated thrust reverser.’  Operational Note will be added."}
 ]
 }
